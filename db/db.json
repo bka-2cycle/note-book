@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "title": "Get Groceries",
+        "text": "Milk, eggs, butter, bread.",
+        "id": "d16dade6-5c76-44b1-8c2c-efcea0e38f0c"
+    },
+    {
+        "title": "Car Oil Change",
+        "text": "Tues. at 3pm",
+        "id": "98902235-ce8f-498b-8343-a28082259d67"
+    },
+    {
+        "title": "Dr.'s Appt.",
+        "text": "Friday, 8:45am",
+        "id": "f229510c-e07f-4b36-839d-aea16850cda8"
+    },
+    {
+        "title": "Airport",
+        "text": "Pick up Sarah on 12/31 at 4pm",
+        "id": "ca026a12-f292-4200-8462-be27f1c0c609"
+    },
+    {
+        "title": "School",
+        "text": "Parent Teacher conference, Friday, 5:30pm",
+        "id": "06e275cc-6752-4c1e-85f3-6fea18045405"
+    },
+    {
+        "title": "Century",
+        "text": "Solvang Century, 05/19/23",
+        "id": "6170b831-e54d-4749-bbd3-b94277732c61"
+    }
+]
